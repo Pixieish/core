@@ -1,0 +1,35 @@
+
+info:
+    name: "Circle Skirt"
+    description: "This is a Circle skirt pattern that was Pixie's first project"
+    handle: "skirt"
+    version: "1.0"
+    author: "Pixie Mitchell"
+    email: "joost@decock.org"
+    company: "freesewing.org"
+    link: "freesewing.org/pattern/example"
+    tags:
+        - skirt
+        
+parts:
+    skirt: "Skirt"
+    skirtQuarter: "Skirt quarter"
+    skirtFront: "Skirt front"
+    waistBand : "Waist band"
+    
+languages:
+    en: "English"
+
+measurements:
+    naturalWaist: 620
+    hipsToUpperLeg: 200
+    naturalWaistToHip: 160
+    hipsCircumference: 670
+
+options:
+    lengthBonus:
+        type: "measure"
+        min: -350
+        max: 1200
+        default: 100
+    

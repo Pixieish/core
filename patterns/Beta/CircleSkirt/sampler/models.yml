@@ -1,0 +1,48 @@
+default: 
+    group: fakePeeps
+groups:
+    fakePeeps:
+        - usSize34
+        - usSize36
+        - usSize38
+        - usSize40
+        - usSize42
+        - usSize44
+
+    realMen:
+        - joost
+measurements:
+    naturalWaist:
+        joost   : 885
+        usSize34: 697
+        usSize36: 755
+        usSize38: 813
+        usSize40: 871
+        usSize42: 929
+        usSize44: 987
+    
+    hipsToUpperLeg:
+        joost   : 220
+        usSize34: 180
+        usSize36: 190
+        usSize38: 200
+        usSize40: 210
+        usSize42: 220
+        usSize44: 230
+
+    naturalWaistToHip:
+        cathrin: 160
+        sorcha : 200
+        joost  : 150
+        usSize34: 180
+        usSize36: 185
+        usSize38: 190
+        usSize40: 195
+        usSize42: 200
+        usSize44: 205
+
+    hipsCircumference:
+        joost   : 900
+        usSize34: 700
+        usSize36: 800
+

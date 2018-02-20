@@ -1,0 +1,150 @@
+default: 
+    group: fakeWomen
+groups:
+    fakeWomen:
+        - size8
+        - size10
+        - size12
+        - size14
+        - size16
+        - size18
+        - size20
+        - size22
+        - size24
+        - size28
+        - size30    
+measurements:
+    centerBackNeckToWaist: 
+        size8: 390
+        size10: 395
+        size12: 400
+        size14: 405
+        size16: 410
+        size18: 415
+        size20: 420
+        size22: 425
+        size24: 430
+        size26: 432
+        size28: 434
+        size30: 436
+    chestCircumference: 
+        size8: 800
+        size10: 840
+        size12: 880
+        size14: 920
+        size16: 970
+        size18: 1020
+        size20: 1070
+        size22: 1120
+        size24: 1170
+        size26: 1220
+        size28: 1270
+        size30: 1320
+    hipsCircumference:
+        size8: 850
+        size10: 890
+        size12: 930
+        size14: 970
+        size16: 1020
+        size18: 1070
+        size20: 1120
+        size22: 1170
+        size24: 1220
+        size26: 1270
+        size28: 1320 
+        size30: 1370
+    naturalWaist:
+        size8: 600
+        size10: 640
+        size12: 680
+        size14: 720
+        size16: 770
+        size18: 820
+        size20: 870
+        size22: 920
+        size24: 970
+        size26: 1020
+        size28: 1070
+        size30: 1120
+    naturalWaistToHip:  
+        size8: 200
+        size10: 203
+        size12: 206
+        size14: 209
+        size16: 212
+        size18: 215
+        size20: 218
+        size22: 221
+        size24: 223
+        size26: 225
+        size28: 227
+        size30:  229
+    #these naturalWaistToUnderbust are made up numbers
+    naturalWaistToUnderbust: 
+        size8: 139
+        size10: 140
+        size12: 141
+        size14: 142
+        size16: 143
+        size18: 144
+        size20: 145
+        size22: 146
+        size24: 147
+        size26: 148
+        size28: 149
+        size30: 150
+    neckCircumference: 
+        size8: 350
+        size10: 360
+        size12: 370
+        size14: 380
+        size16: 392
+        size18: 404
+        size20: 416
+        size22: 428
+        size24: 440
+        size26: 452
+        size28: 464
+        size30: 476
+    #these are totally made up numbers for shoulder slope
+    shoulderSlope: 
+        size8: 9
+        size10: 10
+        size12: 11
+        size14: 12
+        size16: 13
+        size18: 14
+        size20: 15
+        size22: 16
+        size24: 17
+        size26: 18
+        size28: 19
+        size30: 20
+    acrossBack: 
+        size8: 324
+        size10: 334
+        size12: 344
+        size14: 354
+        size16: 366
+        size18: 378
+        size20: 390
+        size22: 402
+        size24: 414
+        size26: 426
+        size28: 438
+        size30: 450
+    #these underbust numbers are made up
+    underbust: 
+        size8: 750
+        size10: 800
+        size12: 860
+        size14: 900
+        size16: 920
+        size18: 1000
+        size20: 1040
+        size22: 1100
+        size24: 1110
+        size26: 1170
+        size28: 1220
+        size30: 1300
+    

@@ -1,0 +1,67 @@
+info:
+    name: "Kurta"
+    description: "This is a Kurta - Salwar Kameez Top - Basic body block"
+    version: "1.0"
+    author: "Pixie Mitchell building on the work of Joost De Cock"
+    email: "joost@decock.org"
+    company: "freesewing.org"
+    link: "freesewing.org/pattern/example"
+    tags:
+        - simple
+        - top
+
+parts:
+    kurtaFront: "Kurta Front"
+    kurtaBack: "Kurta Back"
+    neckFacing: "Neck Facing"
+    backFacing: "Back Facing"
+
+languages:
+    en: "English"
+
+measurements:
+    acrossBack: 380
+    neckCircumference: 390
+    shoulderToShoulder: 450
+    centerBackNeckToWaist: 410
+    naturalWaistToUnderbust: 140
+    chestCircumference: 1060
+    naturalWaist: 890
+    naturalWaistToHip: 160
+    hipsCircumference: 1090
+    underbust: 980
+    shoulderSlope: 20
+
+options:
+    lengthBonus:
+        title: "Length bonus"
+        description: "Amount to lengthen the body from the hip"
+        group: "fit"
+        type: "measure"
+        min: -40
+        max: 850
+        default: 400
+    chestEase:
+        title: "Chest ease"
+        description: "The amount of ease at your chest"
+        group: "fit"
+        type: "measure"
+        min: -40
+        max: 160
+        default: 30
+    hipEase:
+        title: "Hip ease"
+        description: "The amount of ease at your hip"
+        group: "fit"
+        type: "measure"
+        min: -40
+        max: 200
+        default: 30
+    waistEase:
+        title: "Waist ease"
+        description: "The amount of ease at your waist"
+        group: "fit"
+        type: "measure"
+        min: -30
+        max: 140
+        default: 30
